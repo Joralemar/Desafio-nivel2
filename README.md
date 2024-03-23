@@ -1,2 +1,2 @@
 # Nivel 2 - Desafío maquetado.
-[Maqueta →](https://joralemar.github.io/Desafio-nivel2/)
+[Maqueta →](https://joralemart.github.io/Desafio-nivel2/)
